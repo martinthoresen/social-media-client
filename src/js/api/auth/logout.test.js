@@ -28,6 +28,9 @@ class LocalStorageMock {
 
 global.localStorage = new LocalStorageMock();
 
+/**
+ * A function that tests if function successfully clears localstorage on logout
+ */
 describe("logout", () => {
   it("clears token from localstorage", () => {
     logout();
