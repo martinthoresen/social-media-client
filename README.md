@@ -28,11 +28,11 @@ Frameworks:
 <h3>Installing</h3>
 
 <h4>Clone the repo</h4>
-`git clone https://github.com/martinthoresen/social-media-client.git`
+```git clone https://github.com/martinthoresen/social-media-client.git```
 
 <h4>Install dependencies</h4>
-`npm install`
+```npm install```
 
 <h3>Run</h3>
 
-`npm run build`
+```npm run build```
