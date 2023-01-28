@@ -28,11 +28,13 @@ Frameworks:
 <h3>Installing</h3>
 
 <h4>Clone the repo</h4>
+
 ```bash
 git clone https://github.com/martinthoresen/social-media-client.git
 ```
 
 <h4>Install dependencies</h4>
+
 ```bash
 npm install
 ```
